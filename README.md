@@ -11,8 +11,7 @@ This project is a **React-based web application** that showcases the use of adva
 - **Responsive Layout**: Uses Material UI's grid system to ensure responsive design across different screen sizes.
 
 ## Demo
-
-![Demo Screenshot](./assets/demo.png)
+![Screenshot 2024-10-24 182313](https://github.com/user-attachments/assets/168438e2-9627-4559-b0ac-8cd403589ae3)
 
 ## Installation and Setup
 
